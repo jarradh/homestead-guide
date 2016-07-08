@@ -127,7 +127,7 @@ off in a private branch, and is only available for the Go client.
 doublethinkco will be starting development of Light Client for the C++ client
 in the coming months, following grant funding.
 
-Check out `Syng.im <http://syng.io>`_, who were initially using
+Check out `Status.im <https://status.im>`_, who were initially using
 `ethereumj-personal <https://github.com/syng-im/ethereumj-personal>`_ based
 on :ref:`Ethereum(J)`, but have recently flipped to Geth cross-builds with
 Light Client.
